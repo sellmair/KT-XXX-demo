@@ -1,0 +1,4 @@
+rootProject.name = 'kt-mpp-bug'
+include ':libA'
+include ':libB'
+enableFeaturePreview('GRADLE_METADATA')
