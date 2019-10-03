@@ -8,8 +8,6 @@ repositories {
     google()
 }
 
-group = "io.sellmair"
-version = "0.0.1"
 
 android {
     compileSdkVersion(28)
@@ -20,8 +18,9 @@ kotlin {
     iosX64("ios")
 
     sourceSets["commonMain"].dependencies {
-        project.rootProject.afterEvaluate {
-            implementation(project(":libA"))
-        }
+        /*
+        Adding this dependency will fail the IDE to import the Gradle project.
+         */
+        implementation(project(":libA"))
     }
 }
