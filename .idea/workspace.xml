@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d0b7622-a78c-4002-a8a0-c56f086ba99b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kt-mpp-bug.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libA/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libB/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libA/io.sellmair.libA.iosTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/libA/io.sellmair.libA.iosTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libA/libA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/libA/libA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libB/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/libB/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libB/io.sellmair.libB.commonMain.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libB/io.sellmair.libB.commonTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libB/io.sellmair.libB.iosMain.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libB/io.sellmair.libB.iosTest.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/libB/libB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/libB/libB.iml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +81,14 @@
       <option name="presentableId" value="Default" />
       <updated>1570050944789</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding small documentation on the bug">
+      <created>1570104003120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570104003120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding small documentation on the bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding small documentation on the bug" />
   </component>
 </project>
